@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi! My name is Jorge, I am from Madrid, Spain. Currently studying Computer Ingeneering 👨‍💻 in Universidad Politécnica de Madrid.
+
+- 🧠 I’m currently working on small projects to build my skills and knowledge so I can eventually get to work on more ambitious ones 😄
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 📫 How to reach me: jorgescu (Instagram) 📷
+
 <!--
 **jorgescu/jorgescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
